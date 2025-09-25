@@ -4,15 +4,6 @@ This platform offers a personalized learning experience using **AI models**, **Q
 
 ---
 
-## 📈 Video
-
-
-https://github.com/user-attachments/assets/8ee0d05e-c136-4aa6-915c-cccb44bc6ba8
-
-**Youtube Link**: [https://www.youtube.com/watch?v=juHuOA2Kk5g](https://www.youtube.com/watch?v=juHuOA2Kk5g)
-
----
-
 ## 🚀 Features
 
 - 🎥 Extracts learning content from **YouTube videos**
@@ -61,10 +52,6 @@ This AI-Driven Adaptive Assessment system combines Django (backend), React (fron
 5. **Result Analysis** → Scores, star rewards, progress, and adaptation level are stored and visualized.
 
 
-## 🧰 Django Backend
-
-![WhatsApp Image 2025-06-14 at 19 14 51_5ccf6242](https://github.com/user-attachments/assets/188dfbf6-60ea-4c20-860b-fe5260defcc5)
-![WhatsApp Image 2025-06-14 at 19 15 10_b6f18937](https://github.com/user-attachments/assets/4ba233dc-13ed-4e94-876e-812ff7b4951a)
 
 ### 🔧 Setup And Run
 
@@ -87,13 +74,6 @@ python manage.py runserver
 - Media handling with Pillow
 - Documentation with drf-yasg
 
-## ⚛️ React Frontend (Vite + Tailwind)
-
- ![WhatsApp Image 2025-06-14 at 19 12 45_e64e561f](https://github.com/user-attachments/assets/b5413928-b5b5-4f58-9925-a7c609298cad)
- ![image](https://github.com/user-attachments/assets/9073f6a2-b7b2-4f94-a741-9d1f1d59bc22)
- ![WhatsApp Image 2025-06-14 at 19 13 31_198a9037](https://github.com/user-attachments/assets/5f6e2bfb-e241-4e8f-a550-d79f23dce998)
- ![WhatsApp Image 2025-06-14 at 19 14 09_082cf489](https://github.com/user-attachments/assets/db555b3d-340e-4e7b-90fd-58dc1336fee2)
- ![image](https://github.com/user-attachments/assets/f39c55ff-d445-43c5-9d88-f605b1fb1f58)
 
 
 ### 🔧 Setup And Run
@@ -110,9 +90,6 @@ npm run dev
 - Axios for API requests
 - React Router
 
-## 🔁Q Table
-
-![Screenshot 2025-06-16 190524](https://github.com/user-attachments/assets/4ac72814-f0b5-43b0-9294-2b4c8dfc1cfc)
 
 
 ## ☁️ Fog Node (Flask)
@@ -128,7 +105,6 @@ python app.py
 - Smart caching & log-based monitoring
 - Low-latency API proxy for dashboard st
 
-### ![image](https://github.com/user-attachments/assets/2715620b-a58d-4c54-ac68-638beb495823)
 
 
 ### 🛡️ Endpoints Cached via Fog Node
@@ -153,7 +129,6 @@ python app.py
    - Quiz difficulty adaptation
    - Video-wise performance analytics
 
- ![image](https://github.com/user-attachments/assets/941b970e-0b19-4ca7-b2fa-c28d1b5c57f1)
 
 ---
 
@@ -169,8 +144,6 @@ python app.py
   - Course progress
   - Session-wise improvement
   - Difficulty trends
-
- ![image](https://github.com/user-attachments/assets/f8d0dfb2-ea79-4350-a4e2-ae7eab6e748d)
 
 ---
 
